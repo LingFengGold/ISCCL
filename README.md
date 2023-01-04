@@ -2,14 +2,12 @@
 
 >  This repository is the improved version of paper [Supporting Clustering with Contrastive Learning (NAACL 2021)](https://aclanthology.org/2021.naacl-main.427.pdf)
 
-<p align="center">
-  
-</p>
 
-<p align="center">
-  <img width="600" src="ISCCL_method.pdf">
-</p>
-
+<object data="ISCCL_method.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="ISCCL_method.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 ## Getting Started
