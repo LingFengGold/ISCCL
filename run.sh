@@ -1,0 +1,20 @@
+python3 main.py \
+        --resdir $path-to-store-your-results \
+        --use_pretrain SBERT \
+        --bert distilbert \
+        --datapath $path-to-your-data \
+        --dataname searchsnippets_trans_subst_20 \
+        --num_classes 8 \
+        --text text \
+        --label label \
+        --objective SCCL \
+        --augtype explicit \
+        --temperature 0.5 \
+        --eta 5 \
+        --lr 5e-05 \
+        --lr_scale 100 \
+        --max_length 32 \
+        --batch_size 400 \
+        --max_iter 3000 \
+        --print_freq 100 \
+        --gpuid 0
