@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="800" src="ISCCL_method.pdf">
+  <img width="600" src="ISCCL_method.pdf">
 </p>
 
 
